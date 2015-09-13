@@ -1,4 +1,4 @@
-# Email signature monitor
+# Email signature redirector
 
 This project allows to manage ad campaign through employees' email signatures.
 
