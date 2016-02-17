@@ -1,6 +1,10 @@
 # Email signature redirector
 
-This project allows to manage ad campaign through employees' email signatures.
+Ever had the need to edit the email signatures of your 100 strong company to include a promotion / notification? Then had to go back and change all their footers again once the promotion finished? 
+
+*This project allows centralised management of email footer campaigns.*
+
+By using simple redirects, html signature footers can have images and links change from one centralised server.
 
 ## Installation
 
